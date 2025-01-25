@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_Background_Music.wav",
   "type":0,
-  "volume":0.15,
+  "volume":0.05,
 }

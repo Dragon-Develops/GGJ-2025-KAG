@@ -41,7 +41,7 @@ if (mouse_check_button(mb_left) && can_shoot)
 {
 	can_shoot = false;
 	
-	alarm[0] = room_speed * 0.35;
+	alarm[0] = room_speed * 0.30;
 	
 	if mouse_check_button(mb_left)
 	{
