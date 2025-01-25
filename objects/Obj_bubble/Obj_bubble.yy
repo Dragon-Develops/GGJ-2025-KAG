@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object4",
+  "%Name":"Obj_bubble",
   "eventList":[],
   "managed":true,
-  "name":"Object4",
+  "name":"Obj_bubble",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Krill",
-    "path":"sprites/Spr_Krill/Spr_Krill.yy",
+    "name":"Spr_Bubble",
+    "path":"sprites/Spr_Bubble/Spr_Bubble.yy",
   },
   "spriteMaskId":null,
   "visible":true,

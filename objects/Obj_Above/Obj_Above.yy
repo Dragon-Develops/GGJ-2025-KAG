@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object5",
+  "%Name":"Obj_Above",
   "eventList":[],
   "managed":true,
-  "name":"Object5",
+  "name":"Obj_Above",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_Above",
+    "path":"sprites/Spr_Above/Spr_Above.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

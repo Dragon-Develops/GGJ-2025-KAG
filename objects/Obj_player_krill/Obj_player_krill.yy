@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object1",
+  "%Name":"Obj_player_krill",
   "eventList":[],
   "managed":true,
-  "name":"Object1",
+  "name":"Obj_player_krill",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite1",
-    "path":"sprites/Sprite1/Sprite1.yy",
+    "name":"Spr_Krill",
+    "path":"sprites/Spr_Krill/Spr_Krill.yy",
   },
   "spriteMaskId":null,
   "visible":true,
