@@ -1,7 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-can_shoot = true
-
-score = 0; // assign the value 0 to score
-
-Scoretext = "Score "
+audio_play_sound(snd_Background_Music, 1, 200)
