@@ -2,8 +2,8 @@
   "$GMSprite":"",
   "%Name":"Spr_Krill",
   "bboxMode":0,
-  "bbox_bottom":127,
-  "bbox_left":0,
+  "bbox_bottom":121,
+  "bbox_left":11,
   "bbox_right":127,
   "bbox_top":0,
   "collisionKind":1,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"3e24af43-b7e0-4eb4-abe3-ff19d273037e","name":"3e24af43-b7e0-4eb4-abe3-ff19d273037e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"933782aa-1b5f-45fc-9187-2de4c43061d7","name":"933782aa-1b5f-45fc-9187-2de4c43061d7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":128,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"3b211abf-d003-44d0-ab53-ca4bf5a5dc7d","blendMode":0,"displayName":"default","isLocked":false,"name":"3b211abf-d003-44d0-ab53-ca4bf5a5dc7d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"1cf5fafb-ce14-4340-a546-fc006cee7977","blendMode":0,"displayName":"default","isLocked":false,"name":"1cf5fafb-ce14-4340-a546-fc006cee7977","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Spr_Krill",
   "nineSlice":null,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3e24af43-b7e0-4eb4-abe3-ff19d273037e","path":"sprites/Spr_Krill/Spr_Krill.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9ad56b73-218a-4433-89ae-2b539bfb37ff","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"933782aa-1b5f-45fc-9187-2de4c43061d7","path":"sprites/Spr_Krill/Spr_Krill.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"6e30e8cc-63e7-4ab0-8e4f-1a9d3e2ca761","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
