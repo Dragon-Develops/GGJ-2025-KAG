@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.621333,
+  "duration":1.128,
   "name":"snd_Krill_scream",
   "parent":{
     "name":"Sounds",
